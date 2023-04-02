@@ -38,5 +38,4 @@
                               (set-list-node-val! cur addup)
 
                               cur))])))
-                 (display (list-node-next ou))
                  (sumup l1 l2 0))
