@@ -10,3 +10,6 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ## Racket : 
 * Runtime 348 ms Beats 100%
 * Memory 127.4 MB Beats 100%
+## TS : 
+* Runtime 96 ms Beats 93.21%
+* Memory 48.8 MB Beats 28.10%
