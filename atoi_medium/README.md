@@ -19,3 +19,5 @@ Do not ignore any characters other than the leading whitespace or the rest of th
 * Runtime 302 ms Beats 90.20%
 * Memory 145.1 MB Beats 56.86%
 # C : Efficient : 
+* Runtime 0 ms Beats 100%
+* Memory 5.8 MB Beats 14.68%
