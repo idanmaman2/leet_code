@@ -1,10 +1,11 @@
 
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
-        mp = { } 
+        mp = dict()
         for index,i in enumerate(nums) : 
-            if mp.get(i) != None: 
-                return [mp.get(i) , index ]
+            num = mp.get(i)
+            if  num != None: 
+                return [num , index ]
             mp[target-i] = index
 
 print(Solution().twoSum(nums = [2,7,11,15], target = 9) )
